@@ -1,0 +1,11 @@
+.square{
+    height: 34px;
+    width: 34px;
+    float :left;
+}
+.game {
+    display: flex;
+    flex-direction: row;
+}
+
+
