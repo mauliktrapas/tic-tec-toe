@@ -2,15 +2,59 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/mirroring_webrtc.js" />
         <item url="file://$PROJECT_DIR$/dist/build/static/js/main.33a5d2c1.js" />
         <item url="file://$PROJECT_DIR$/dist/build/service-worker.js" />
+        <item url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/cast_sender.js" />
+        <item url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/mirroring_cast_streaming.js" />
+        <item url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/cast_route_details.js" />
+        <item url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/angular.js" />
+        <item url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/cast_setup/cast_app.js" />
+        <item url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/cast_game_sender.js" />
+        <item url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.3_0/craw_background.js" />
+        <item url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/mirroring_common.js" />
+        <item url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.3_0/craw_window.js" />
+        <item url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/mirroring_hangouts.js" />
+        <item url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/main.js" />
+        <item url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/main.js" />
+        <item url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.4_1/page_embed_script.js" />
+        <item url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/main.js" />
+        <item url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.4_1/contentscript_bin_prod.js" />
+        <item url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/common.js" />
+        <item url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.4_1/eventpage_bin_prod.js" />
+        <item url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/cast_setup/cast_app_redirect.js" />
         <item url="file://$PROJECT_DIR$/dist/src/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/feedback_script.js" />
+        <item url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/cloud_route_details/view.js" />
+        <item url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/background_script.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/mirroring_webrtc.js" />
       <root url="file://$PROJECT_DIR$/dist/build/static/js/main.33a5d2c1.js" />
       <root url="file://$PROJECT_DIR$/dist/build/service-worker.js" />
+      <root url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/cast_sender.js" />
+      <root url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/mirroring_cast_streaming.js" />
+      <root url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/cast_route_details.js" />
+      <root url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/angular.js" />
+      <root url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/cast_setup/cast_app.js" />
+      <root url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/cast_game_sender.js" />
+      <root url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.3_0/craw_background.js" />
+      <root url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/mirroring_common.js" />
+      <root url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.3_0/craw_window.js" />
+      <root url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/mirroring_hangouts.js" />
+      <root url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.10_0/main.js" />
+      <root url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/felcaaldnbdncclmgdcncolpebgiejap/1.2_0/main.js" />
+      <root url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.4_1/page_embed_script.js" />
+      <root url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/aapocclcgogkmnckokdopfmhonfmgoek/0.10_0/main.js" />
+      <root url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.4_1/contentscript_bin_prod.js" />
+      <root url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/common.js" />
+      <root url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.4_1/eventpage_bin_prod.js" />
+      <root url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/cast_setup/cast_app_redirect.js" />
       <root url="file://$PROJECT_DIR$/dist/src/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/feedback_script.js" />
+      <root url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/cloud_route_details/view.js" />
+      <root url="file://$PROJECT_DIR$/dist/.vscode/chrome/Default/Extensions/pkedcjkdefgpdelpbcmbmeomcjbeemfm/6217.911.0.3_0/background_script.js" />
     </CLASSES>
     <SOURCES />
   </library>

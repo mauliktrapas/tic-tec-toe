@@ -11,6 +11,4 @@ var _reactDom2 = _interopRequireDefault(_reactDom);
 require('./index.css');
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-_reactDom2.default.render(document.getElementById('root'));
 //# sourceMappingURL=index.js.map

@@ -1,11 +1,36 @@
-.square{
-    height: 34px;
-    width: 34px;
-    float :left;
+.board {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 200px;
 }
+
+.square {
+    width: 65px;
+    font-size: 25px;
+    height: 65px;
+}
+
+
+.square--win {
+    color: hsla(0, 100%, 50%, 1);
+}
+
 .game {
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: pink;
 }
 
+.steps {
+    height : 10%;
+    margin-right: 10px;
+}
+
+.game-info {
+    margin-left: 20px;
+}
 
