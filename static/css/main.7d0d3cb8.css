@@ -1,0 +1,2 @@
+.board{display:-ms-flexbox;display:flex;-ms-flex-direction:row;flex-direction:row;-ms-flex-wrap:wrap;flex-wrap:wrap;width:200px}.square{width:65px;font-size:25px;height:65px}.square--win{color:red}.game{display:-ms-flexbox;display:flex;-ms-flex-direction:row;flex-direction:row;-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center;height:100vh;background-color:pink}.steps{height:10%;margin-right:10px}.game-info{margin-left:20px}
+/*# sourceMappingURL=main.7d0d3cb8.css.map*/
