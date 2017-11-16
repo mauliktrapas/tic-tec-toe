@@ -93,7 +93,7 @@ class Game extends React.Component{
             const desc = step ? ('move ('+ temp.index[0] + ',' + temp.index[1] + ')' ) : 'game start';
             return(
                 <li key={step} className="steps">
-                    <a href=" " onClick={()=>this.moveTo(step)}>{desc}</a>
+                    <a href="#!" onClick={()=>this.moveTo(step)}>{desc}</a>
                 </li>
             );
         });
